@@ -44,7 +44,7 @@ header {
 
 .hero-picture{
     background-image: 
-    url("/home/pinguino/Documentos/Bodas/img/mirkos-tsarouchidis-eW9Uxz4h5KU-unsplash.jpg"); 
+    url("../img/mirkos-tsarouchidis-eW9Uxz4h5KU-unsplash.jpg"); 
     background-repeat: no-repeat;
     background-size: cover;
     background-position: bottom;
